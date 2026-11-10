@@ -13,6 +13,6 @@ These reflect languages used across my public projects; the mix varies by projec
 
 ## GitHub activity
 
-![Jayanti's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayantiTA&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github)
+![Jayanti's GitHub stats](./profile/stats.svg)
 
-![Top languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantiTA&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top languages in public repositories](./profile/top-langs.svg)
